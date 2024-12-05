@@ -1,0 +1,17 @@
+body{
+
+}
+
+h1{
+    color: red;
+}
+
+p{
+   color: green;
+   background-color: blanchedalmond; 
+}
+
+.my-comp-paragraph{
+    color: #000;
+    background-color: azure;
+}
